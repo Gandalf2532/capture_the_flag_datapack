@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:armor_stand,tag=blueflag,distance=..1] run execute as @p[sort=nearest] run item replace entity @s weapon.offhand with paper{display:{Name:'{"text":"Blueflag","color":"blue","bold":true}'},CustomModelData:1}
