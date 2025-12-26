@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:armor_stand,tag=redflag,distance=..1] run execute as @p run item replace entity @s weapon.offhand with paper{display:{Name:'{"text":"Redflag","color":"red","bold":true}'},CustomModelData:2}

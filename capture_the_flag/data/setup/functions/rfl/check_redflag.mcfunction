@@ -1,0 +1,2 @@
+execute as @e[type=interaction,tag=redflag] at @s run execute unless entity @e[type=armor_stand,tag=redflag,distance=..1] run stopsound @a master minecraft:block.beacon.ambient
+execute as @e[type=interaction,tag=redflag] at @s run execute unless entity @e[type=armor_stand,tag=redflag,distance=..1] run kill @s
