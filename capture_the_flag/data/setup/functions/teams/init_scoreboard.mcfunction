@@ -11,6 +11,8 @@ scoreboard objectives add score dummy "Score of Teams"
 
 scoreboard objectives add kills playerKillCount "Kills"
 
+scoreboard objectives setdisplay list kills
+
 scoreboard players set blueTeam score 0
 scoreboard players set redTeam score 0
 
