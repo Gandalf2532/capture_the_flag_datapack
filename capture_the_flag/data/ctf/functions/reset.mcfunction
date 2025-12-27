@@ -11,7 +11,6 @@ team remove redTeam
 team remove blueTeam
 
 
-
 kill @e[tag=flag]
 
 effect clear @a slowness
