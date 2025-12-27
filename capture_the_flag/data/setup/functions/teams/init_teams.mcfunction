@@ -17,4 +17,4 @@ team modify blueTeam color blue
 team modify blueTeam prefix "blue"
 team modify blueTeam seeFriendlyInvisibles true
 
-team add spectator
+team add spectator "Spectator"
