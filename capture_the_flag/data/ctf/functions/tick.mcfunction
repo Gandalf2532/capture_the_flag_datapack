@@ -11,6 +11,7 @@ function setup:rfl/del_redflag_offhand
 
 # function setup:points/rotate_point
 function setup:points/particle_point
+function setup:trigger/beacon
 
 function setup:trigger/switch_trigger
 function setup:teams/spectator
